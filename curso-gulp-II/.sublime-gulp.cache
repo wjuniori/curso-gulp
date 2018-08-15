@@ -1,0 +1,1 @@
+{"/home/wjuniori/git/www/curso-gulp-II/gulpfile.js":{"sha1":"21a756cde490d88970d056dfd070ad4dcb61d867","tasks":{"sass":{"name":"sass","dependencies":""},"html":{"name":"html","dependencies":""},"default":{"name":"default","dependencies":"html sass"}}}}
