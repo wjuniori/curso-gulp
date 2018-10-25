@@ -1,4 +1,4 @@
-# curso-gulp
+# udemy-curso-gulp
 
 Este repositório contém todas as atividades realizadas durante o [Udemy] Curso de Gulp.
 
